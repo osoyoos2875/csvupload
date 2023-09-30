@@ -1,0 +1,14 @@
+# OSX files
+.DS_Store
+
+# vscode-specific files
+.vscode/
+debug.log
+
+# Python-specific files
+__pycache__/
+venv/
+
+# Django-specific files
+db.sqlite3
+/static
